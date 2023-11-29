@@ -17,3 +17,4 @@ Built using fundamental web technologies, this project employs:
 The project offers a practical exercise for developers, reinforcing JavaScript interactivity, DOM manipulation, and game development fundamentals. It's both a recreation of a classic game and a hands-on opportunity to apply skills in a fun context.
 
 
+<img width="1433" alt="simon-game-preview" src="https://github.com/vingutha/the-simon-game/assets/89012965/d2277a34-705b-43c0-8504-a7c5e26da707">
